@@ -14,16 +14,19 @@
 
 ## Overview
 
-iPhone 15 website clone 
+iPhone 15 website clone
 
 ### Screenshots
+![Desktop](./screenshots/apple-home.png)
+![Desktop](./screenshots/top.gif)
+![Desktop](./screenshots/bottom.gif)
 
 #### Desktop
 
 ### Links
 
-- GitHub Repo: [View Repo](https://github.com/Gandah/my-porfolio-site.git)
-- Live Site URL: [Visit Site](https://gandah-porfolio.vercel.app/)
+- GitHub Repo: [View Repo](https://github.com/Gandah/apple-web.git)
+- Live Site URL: [Visit Site](./)
 
 ### Built with
 
@@ -41,4 +44,4 @@ iPhone 15 website clone
 ## Author
 
 - Website - [Porfolio]( https://gandah-porfolio.vercel.app/)
-- Twitter - [MyLinkedIn](https://www.linkedin.com/in/gandahkelvin)
+- LinkedIn - [MyLinkedIn](https://www.linkedin.com/in/gandahkelvin)
