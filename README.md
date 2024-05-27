@@ -26,7 +26,7 @@ iPhone 15 website clone
 ### Links
 
 - GitHub Repo: [View Repo](https://github.com/Gandah/apple-web.git)
-- Live Site URL: [Visit Site](./)
+- Live Site URL: [Visit Site](https://apple-web-server-m6fxdjae5a-uc.a.run.app/)
 
 ### Built with
 
